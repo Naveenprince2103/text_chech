@@ -3,7 +3,7 @@ import com.vanniktech.maven.publish.SonatypeHost
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
-    id("io.gitlab.arturbosch.detekt") version "1.23.6"
+    id("io.gitlab.arturbosch.detekt") version "1.23.7"
     id("org.jetbrains.kotlinx.binary-compatibility-validator") version "0.14.0"
     id("org.jetbrains.kotlin.plugin.compose")
     id("com.vanniktech.maven.publish") version "0.28.0"
